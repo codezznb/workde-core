@@ -41,14 +41,3 @@
 ### 4.1 创建插件项目
 
 创建一个`maven`项目，并添加依赖：
-
-```xml
-<artifactId>grape1</artifactId>
-<dependencies>
-    <dependency>
-        <groupId>org.grape</groupId>
-        <artifactId>grape-container</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
-    </dependency>
-</dependencies>
-```
